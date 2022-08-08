@@ -21,6 +21,9 @@ Forked Cutomizations:-
 1. [Spree Active Shipping ](https://github.com/spree-edge/spree_active_shipping)
    - Branch - spree4.4
    - Cutomization - Made it compatible with Spree 4.4
+2. [Spree + EasyPost](https://github.com/spree-edge/spree_easypost)
+   - Branch - 4-4-stable
+   - Cutomization - Made it compatible with Spree 4.4
 
 
 
