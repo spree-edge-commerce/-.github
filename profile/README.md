@@ -15,6 +15,9 @@ New Extentions:-
 5. [Spree Stripe Connect Onboarding](https://github.com/spree-edge/spree_stripe_connect_onboarding) - Completed
 6. [SpreePaypalRestapi](https://github.com/spree-edge/spree_paypal_restapi)  - In progress
 7. [Spree Analysis](https://github.com/spree-edge/spree_analysis) - In progress
+8. [Spree Import Products](https://github.com/spree-edge/spree_import_products) - Completed
+9. [Spree Store Banner](https://github.com/spree-edge/spree_store_banner) - In progress
+
 
 Forked Cutomizations:-
 
