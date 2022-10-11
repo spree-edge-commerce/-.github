@@ -2,7 +2,7 @@
 
 🙋‍♀️ **what this organization is all about?**
 
-Team of developers working on extensions & support for [Spree Open Source headless eCommerce platform](https://github.com/spree/spree).
+Team of developers working on extensions & support for [Spree Open Source eCommerce platform](https://github.com/spree/spree).
 
 🌈♀️ **Contribution Summary**
 
