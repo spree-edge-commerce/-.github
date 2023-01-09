@@ -16,7 +16,7 @@ New Extentions:-
 6. [SpreePaypalRestapi](https://github.com/spree-edge/spree_paypal_restapi)  - **In progress**
 7. [Spree Analysis](https://github.com/spree-edge/spree_analysis) - **Completed**
 8. [Spree Import Products](https://github.com/spree-edge/spree_import_products) - **Completed**
-9. [Spree Store Banner](https://github.com/spree-edge/spree_store_banner) - **In progress**
+9. [Spree Store Banner](https://github.com/spree-edge/spree_store_banner) - **Completed**
 
 
 Forked Cutomizations:-
