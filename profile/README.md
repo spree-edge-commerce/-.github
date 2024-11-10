@@ -21,5 +21,7 @@ We manage a wide range of forked Spree extensions, all maintained to align with 
 We maintain a collection of private extensions, available upon request. If you're looking for specific extensions that aren't available as open-source, feel free to reach out to us for more information. Here is [link](https://www.bluebash.co/company/contact-us), please mention while contacting about your requirment for us to assist better.
 
 ## Advanced Storefrontend & admin panel 
-We offer a customized admin panel and [storefront](https://demo.nextbrand.online/admin). You can view a demo of the storefront here. For an admin demo, please contact us.
+We provide a fully customized admin panel and [storefront](https://demo.nextbrand.online/admin), integrated with essential features like cloud storage, AI capabilities, multiple shipping solutions, payment gateways, advanced reporting, and a robust return module. Visit our website to explore the storefront and view the key highlights of our admin panel.
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/e566bda3-0f94-41d4-90e4-09915c9e9f49)
 
