@@ -6,7 +6,7 @@
   <h1 align="center">Spree Edge</h1>
 
   <p align="center">
- Using Spree for the past decade, we've been dedicated to creating and maintaining extensions. Our mission is to keep extensions up to date with Spree and to build new ones that enhance the platform.
+ Using (Spree](https://github.com/spree) for the past decade, we've been dedicated to creating and maintaining extensions. Our mission is to keep extensions up to date with Spree and to build new ones that enhance the platform.
     <br />
   </p>
 </p>
