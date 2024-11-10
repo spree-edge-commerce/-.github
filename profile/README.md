@@ -17,7 +17,7 @@ We are a team of open-source contributors actively developing and maintaining ex
 ## What do we have?
 We manage a wide range of forked Spree extensions, all maintained to align with the latest Spree versions, along with our own custom Spree extensions. We are committed to continuously supporting and advancing this work. Our efforts are non-profit, and we operate independently from the official Spree contributors and maintainers.
 
-## Private extentions on request
+## Private extensions libraray on request
 We maintain a collection of private extensions, available upon request. If you're looking for specific extensions that aren't available as open-source, feel free to reach out to us for more information. Here is [link](https://www.bluebash.co/company/contact-us), please mention while contacting about your requirment for us to assist better.
 
 ## Advanced Storefrontend & admin panel 
