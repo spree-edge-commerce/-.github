@@ -31,7 +31,7 @@ We are open-source contributors and we love contributions in any form - pull req
 
 ## New request 
 
-Please create [discussion topic](https://github.com/orgs/spree-edge/discussions) topic in case you face any errors/issues in extentions
+Please create [discussion topic](https://github.com/orgs/spree-edge/discussions) in case you face any errors/issues in extentions
 
 ## Contact
 
