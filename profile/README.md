@@ -29,6 +29,9 @@ We provide a fully customized admin panel and [storefront](https://demo.nextbran
 
 We are open-source contributors and we love contributions in any form - pull requests, issues, or feature ideas!
 
+## Roadmap
+Track our ongoing development & roadmap [here](https://github.com/orgs/spree-edge/projects/2)
+
 ## New request 
 
 Please create [discussion topic](https://github.com/orgs/spree-edge/discussions) in case you face any errors/issues in extentions
