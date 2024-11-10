@@ -25,3 +25,14 @@ We provide a fully customized admin panel and [storefront](https://demo.nextbran
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/e566bda3-0f94-41d4-90e4-09915c9e9f49)
 
+## Community & Contributing
+
+We are open-source contributors and we love contributions in any form - pull requests, issues, or feature ideas!
+
+
+## Contact
+
+[Bluebash.co]([bluebash.co](https://www.bluebash.co/company/contact-us))
+[Vishal Garg](https://www.linkedin.com/in/vishalgargco) (CTO & CO-founder @ bluebash.co)
+
+
