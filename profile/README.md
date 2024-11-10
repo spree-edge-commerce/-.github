@@ -1,34 +1,25 @@
-## Hi there 👋
-
-🙋‍♀️ **what this organization is all about?**
-
-Team of developers working on extensions & support for [Spree Open Source eCommerce platform](https://github.com/spree/spree).
-
-🌈♀️ **Contribution Summary**
-
-New Extentions:-
-
-1. [Spree Buy X Get Y Free](https://github.com/spree-edge/spree_buy_x_get_y) - **Completed**
-2. [Spree Notes](https://github.com/spree-edge/spree_notes) - **Completed**
-3. [Spree Shop - React Native](https://github.com/spree-edge/spree-react-native) - **Completed**
-4. [Spree Everypay](https://github.com/spree-edge/spree_everypay)  - **Completed**
-5. [Spree Stripe Connect Onboarding](https://github.com/spree-edge/spree_stripe_connect_onboarding) - **Completed**
-6. [SpreePaypalRestapi](https://github.com/spree-edge/spree_paypal_restapi)  - **In progress**
-7. [Spree Analysis](https://github.com/spree-edge/spree_analysis) - **Completed**
-8. [Spree Import Products](https://github.com/spree-edge/spree_import_products) - **Completed**
-9. [Spree Store Banner](https://github.com/spree-edge/spree_store_banner) - **Completed**
-
-
-Forked Cutomizations:-
-
-1. [Spree Active Shipping ](https://github.com/spree-edge/spree_active_shipping)
-   - Branch - spree4.4
-   - Customization - Made it compatible with Spree 4.4
-2. [Spree + EasyPost](https://github.com/spree-edge/spree_easypost)
-   - Branch - 4-4-stable
-   - Customization - Made it compatible with Spree 4.4
+![Neutral Classic Editorial Monogrammed LinkedIn Article Cover Image](https://github.com/user-attachments/assets/fb90d59b-feb3-421e-a1cc-7ba0b4684b0c)
 
 
 
+<p align="center">
+  <h1 align="center">Spree Edge</h1>
 
-We love contributions in any form - pull requests, issues, feature ideas!. For any new extension requests, request us at extension-request@bluebash.co 
+  <p align="center">
+ Using Spree for the past decade, we've been dedicated to creating and maintaining extensions. Our mission is to keep extensions up to date with Spree and to build new ones that enhance the platform.
+    <br />
+  </p>
+</p>
+
+## Who we are?
+We are a team of open-source contributors actively developing and maintaining extensions for Spree. As part of [Bluebash.co](bluebash.co) & [Nextbrand.online](www.nextbrand.online), we specialize in building custom Spree applications with over a decade of expertise, including customizations like multi-vendor setups, marketplaces, and more. Currently, we maintain 12+ production Spree applications at [bluebash.co](www.bluebash.co).
+
+## What do we have?
+We manage a wide range of forked Spree extensions, all maintained to align with the latest Spree versions, along with our own custom Spree extensions. We are committed to continuously supporting and advancing this work. Our efforts are non-profit, and we operate independently from the official Spree contributors and maintainers.
+
+## Private extentions on request
+We maintain a collection of private extensions, available upon request. If you're looking for specific extensions that aren't available as open-source, feel free to reach out to us for more information. Here is [link](https://www.bluebash.co/company/contact-us), please mention while contacting about your requirment for us to assist better.
+
+## Advanced Storefrontend & admin panel 
+We offer a customized admin panel and [storefront](https://demo.nextbrand.online/admin). You can view a demo of the storefront here. For an admin demo, please contact us.
+
