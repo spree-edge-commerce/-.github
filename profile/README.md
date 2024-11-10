@@ -32,7 +32,8 @@ We are open-source contributors and we love contributions in any form - pull req
 
 ## Contact
 
-[Bluebash.co]([bluebash.co](https://www.bluebash.co/company/contact-us))
-[Vishal Garg](https://www.linkedin.com/in/vishalgargco) (CTO & CO-founder @ bluebash.co)
+1. [Bluebash.co]([bluebash.co](https://www.bluebash.co/company/contact-us))
+2. [Vishal Garg](https://www.linkedin.com/in/vishalgargco) (CTO & CO-founder @ bluebash.co)
+3. [Langchain contributions](https://github.com/orgs/langchain-tech)
 
 
