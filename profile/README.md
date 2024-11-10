@@ -1,12 +1,10 @@
 ![Neutral Classic Editorial Monogrammed LinkedIn Article Cover Image](https://github.com/user-attachments/assets/fb90d59b-feb3-421e-a1cc-7ba0b4684b0c)
 
-
-
 <p align="center">
   <h1 align="center">Spree Edge</h1>
 
   <p align="center">
- Using [Spree](https://github.com/spree) for the past decade, we've been dedicated to creating and maintaining extensions. Our mission is to keep extensions up to date with Spree and to build new ones that enhance the platform.
+ Using Spree for the past decade, we've been dedicated to creating and maintaining extensions. Our mission is to keep extensions up to date with Spree and to build new ones that enhance the platform.
     <br />
   </p>
 </p>
