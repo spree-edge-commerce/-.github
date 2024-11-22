@@ -38,6 +38,6 @@ Please create [discussion topic](https://github.com/orgs/spree-edge/discussions)
 
 1. [Bluebash.co]([bluebash.co](https://www.bluebash.co/company/contact-us))
 2. [Vishal Garg](https://www.linkedin.com/in/vishalgargco) (CTO & CO-founder @ bluebash.co)
-3. [Langchain contributions](https://github.com/orgs/langchain-tech)
+3. [https://www.langchain.ca/blog](https://www.langchain.ca/blog)
 
 
