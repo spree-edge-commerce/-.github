@@ -10,7 +10,7 @@
 </p>
 
 ## Who we are?
-We are a team of open-source contributors actively developing and maintaining extensions for [Spree](github.com/spree). As part of [Bluebash.co](bluebash.co) & [Nextbrand.online](www.nextbrand.online) , we specialize in building custom [Spree](github.com/spree) applications with over a decade of expertise, including customizations like multi-vendor setups, marketplaces, and more. Currently, we maintain 12+ production Spree applications at [bluebash.co](www.bluebash.co).
+We are a team of open-source contributors actively developing and maintaining extensions for [Spree](github.com/spree). As part of [Bluebash.co](bluebash.co) & [Nextbrand.online](https://www.nextbrand.online) , we specialize in building custom [Spree](github.com/spree) applications with over a decade of expertise, including customizations like multi-vendor setups, marketplaces, and more. Currently, we maintain 12+ production Spree applications at [bluebash.co](www.bluebash.co).
 
 ## What do we have?
 We manage a wide range of forked Spree extensions, all maintained to align with the latest [Spree](github.com/spree) versions, along with our own custom Spree extensions. We are committed to continuously supporting and advancing this work. Our efforts are non-profit, and we operate independently from the official Spree contributors and maintainers.
