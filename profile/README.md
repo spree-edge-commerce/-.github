@@ -10,10 +10,10 @@
 </p>
 
 ## Who we are?
-We are a team of open-source contributors actively developing and maintaining extensions for [Spree](github.com/spree). As part of [Bluebash.co](bluebash.co) & [Nextbrand.online](https://www.nextbrand.online) , we specialize in building custom [Spree](github.com/spree) applications with over a decade of expertise, including customizations like multi-vendor setups, marketplaces, and more. Currently, we maintain 12+ production Spree applications at [bluebash.co](www.bluebash.co).
+We are a team of open-source contributors actively developing and maintaining extensions for [Spree](https://github.com/spree). As part of [Bluebash.co](bluebash.co) & [Nextbrand.online](https://www.nextbrand.online) , we specialize in building custom [Spree](https://github.com/spree) applications with over a decade of expertise, including customizations like multi-vendor setups, marketplaces, and more. Currently, we maintain 12+ production Spree applications at [bluebash.co](https://www.bluebash.co).
 
 ## What do we have?
-We manage a wide range of forked Spree extensions, all maintained to align with the latest [Spree](github.com/spree) versions, along with our own custom Spree extensions. We are committed to continuously supporting and advancing this work. Our efforts are non-profit, and we operate independently from the official Spree contributors and maintainers.
+We manage a wide range of forked Spree extensions, all maintained to align with the latest [Spree](https://github.com/spree) versions, along with our own custom Spree extensions. We are committed to continuously supporting and advancing this work. Our efforts are non-profit, and we operate independently from the official Spree contributors and maintainers.
 
 ## Private extensions libraray on request
 We maintain a collection of private extensions, available upon request. If you're looking for specific extensions that aren't available as open-source, feel free to reach out to us for more information. Here is [link](https://www.bluebash.co/company/contact-us), please mention while contacting about your requirment for us to assist better.
@@ -30,7 +30,7 @@ We are open-source contributors and we love contributions in any form - pull req
 ## Roadmap
 Track our ongoing development & roadmap [here](https://github.com/orgs/spree-edge/projects/2)
 
-## New request 
+## New request & Contributions
 
 Please create [discussion topic](https://github.com/orgs/spree-edge/discussions) in case you face any errors/issues in extentions
 
